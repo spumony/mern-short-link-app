@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "xvent_jwt",
+  "mongoUri": "mongodb+srv://mongodb:445812@cluster0.olcxv.mongodb.net/mongodb?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
